@@ -1,0 +1,7 @@
+{
+  "name": "usco-code-gen",
+  "version": "0.0.0",
+  "description": "code generation system for usco project",
+  "author": "Mark 'kaosat-dev' Moissette",
+  "license": "AGPLV3"
+}
